@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/">
+        <file>img/checkerboard.png</file>
+        <file>img/White.png</file>
+        <file>img/Black.png</file>
+        <file>img/bg.jpg</file>
+        <file>music/TapButtonSound.wav</file>
+        <file>music/luoZi.wav</file>
+    </qresource>
+</RCC>
